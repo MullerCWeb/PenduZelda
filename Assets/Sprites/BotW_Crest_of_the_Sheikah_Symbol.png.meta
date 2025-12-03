@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 24670a0cf58cb4d86bbe12d258de2477
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8024462045864178402
+    second: BotW_Crest_of_the_Sheikah_Symbol_0
+  - first:
+      213: -7952897614061482531
+    second: BotW_Crest_of_the_Sheikah_Symbol_1
+  - first:
+      213: 8771883283454126877
+    second: BotW_Crest_of_the_Sheikah_Symbol_2
+  - first:
+      213: -7079935268567994415
+    second: BotW_Crest_of_the_Sheikah_Symbol_3
+  - first:
+      213: -4585319095613230558
+    second: BotW_Crest_of_the_Sheikah_Symbol_4
+  - first:
+      213: 6299776258710173323
+    second: BotW_Crest_of_the_Sheikah_Symbol_5
+  - first:
+      213: 1164372911585899425
+    second: BotW_Crest_of_the_Sheikah_Symbol_6
+  - first:
+      213: 3673285164368517608
+    second: BotW_Crest_of_the_Sheikah_Symbol_7
+  - first:
+      213: -293112304298607997
+    second: BotW_Crest_of_the_Sheikah_Symbol_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BotW_Crest_of_the_Sheikah_Symbol_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 261
+        width: 161
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2b65d17bd9c5f60800000000000000
+      internalID: 8024462045864178402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotW_Crest_of_the_Sheikah_Symbol_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 528
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd40da91c1a1a190800000000000000
+      internalID: -7952897614061482531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotW_Crest_of_the_Sheikah_Symbol_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 346
+        width: 203
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b6871fe5dfbb970800000000000000
+      internalID: 8771883283454126877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotW_Crest_of_the_Sheikah_Symbol_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 354
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfae3462640fbd90800000000000000
+      internalID: -7079935268567994415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotW_Crest_of_the_Sheikah_Symbol_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 404
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222782c939cad50c0800000000000000
+      internalID: -4585319095613230558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotW_Crest_of_the_Sheikah_Symbol_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 365
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86fbd0312d4d6750800000000000000
+      internalID: 6299776258710173323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotW_Crest_of_the_Sheikah_Symbol_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 6
+        width: 210
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a33a257efea82010800000000000000
+      internalID: 1164372911585899425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotW_Crest_of_the_Sheikah_Symbol_7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 40
+        width: 360
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9d5e425612af230800000000000000
+      internalID: 3673285164368517608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotW_Crest_of_the_Sheikah_Symbol_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 28
+        width: 239
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a3cf689e7aeebf0800000000000000
+      internalID: -293112304298607997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BotW_Crest_of_the_Sheikah_Symbol_0: 8024462045864178402
+      BotW_Crest_of_the_Sheikah_Symbol_1: -7952897614061482531
+      BotW_Crest_of_the_Sheikah_Symbol_2: 8771883283454126877
+      BotW_Crest_of_the_Sheikah_Symbol_3: -7079935268567994415
+      BotW_Crest_of_the_Sheikah_Symbol_4: -4585319095613230558
+      BotW_Crest_of_the_Sheikah_Symbol_5: 6299776258710173323
+      BotW_Crest_of_the_Sheikah_Symbol_6: 1164372911585899425
+      BotW_Crest_of_the_Sheikah_Symbol_7: 3673285164368517608
+      BotW_Crest_of_the_Sheikah_Symbol_8: -293112304298607997
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
